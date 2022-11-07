@@ -18,4 +18,4 @@ Helpful hints & resources
 
 Note: Please click 'launch binder' button below to launch the Binder. A Binder is an interactive environment that allows you to run code in the web browser without any need for installations.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CEASLIBRARY/Introduction-to-Julia/main?labpath=Julia.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/The-CEAS-Library/Introduction_to_Julia.git/HEAD)
